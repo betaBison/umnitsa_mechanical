@@ -1,9 +1,12 @@
-#umnitsa_mechanical
+# umnitsa_mechanical
 
 This package contains the necessary files to turn design into reality.
 
-![side](docs/img/sidebysidenormal.png)*design into reality*  
-
+![side](docs/img/sidebysidenormal.png)
+<p align="center">
+  <em>design into reality</em>
+ </p>
+   
 `/PCBDesigns` contains all the custom PCB designs that are used on the robot and includes it's own README.  
 
 `/logos` contains umnitsa logos  
