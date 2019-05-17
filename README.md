@@ -1,6 +1,6 @@
 # umnitsa_mechanical
 
-This package contains the necessary files to turn design into reality.
+This package contains the necessary files to turn the design of the umnitsa robot into reality.
 
 ![side](docs/img/sidebysidenormal.png)
 <p align="center">
