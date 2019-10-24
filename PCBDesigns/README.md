@@ -7,8 +7,8 @@ Pololu-A4990 Motor Driver Carriers. Rated for 1.0 Amp for each motor and 2.5 Amp
 **Inputs:** 12 V supply, RasPi 10 control inputs  
 **Outputs:** 12 V pins, 4 Motor Outputs, A4990 error pins (optional)  
 
-![umnitsacontrol2](docs/img/UmnitsaControl2.JPG "UmnitsaControl Board Layout")
-![umnitsacontrol2soldered](docs/img/UmnitsaControl2Soldered.JPG "UmnitsaControl Soldered (Yes, XT60s are overkill)")
+![umnitsacontrol2](docs/img/UmnitsaControl2.jpg "UmnitsaControl Board Layout")
+![umnitsacontrol2soldered](docs/img/UmnitsaControl2Soldered.jpg "UmnitsaControl Soldered (Yes, XT60s are overkill)")
 
 ## UmnitsaRGB
 UmnitsaRGB is used to control 8 RGB LEDs with only 3 pin inputs from the RasPi by using
